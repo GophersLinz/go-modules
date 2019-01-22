@@ -12,3 +12,6 @@ $ git checkout v2
 $ go mod edit -replace "github.com/russross/blackfriday/v2=../blackfriday"
 
 ```
+
+Alternatively use `gohack` - https://github.com/rogpeppe/gohack
+
